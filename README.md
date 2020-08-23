@@ -1,8 +1,8 @@
 ### Features
 
 - Easy Integration
-- Clever concept with no Emulating shit
-- Rest API
+- Clever concept with no Emulating
+- RESTAPI
 
 
 # Alexa IoT Platform
