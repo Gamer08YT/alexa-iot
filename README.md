@@ -13,10 +13,10 @@
 3. Examples
 
 ##### Requirements
-- A Byte-Store.DE Account
-- A Alexa Device
-- A Amazon Alexa Account
-- A ESP8266 Chip or NodeMCU
+- Byte-Store.DE Account
+- Alexa Device
+- Amazon Alexa Account
+- ESP8266 / ESP32 Chip or NodeMCU
 
 
 Comming soon ...
