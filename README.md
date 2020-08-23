@@ -18,3 +18,6 @@
 - A Amazon Alexa Account
 - A ESP8266 Chip or NodeMCU
 
+
+Comming soon ...
+
