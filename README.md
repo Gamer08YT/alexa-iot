@@ -18,6 +18,12 @@
 - Amazon Alexa Account
 - ESP8266 / ESP32 Chip or NodeMCU
 
+##### Setup own Lambda
+1. Create a new Lambda in EU(Ireland) because only this works in EU for Alexa
+2. Create a Smart Home Skill in https://developer.amazon.com/alexa/console/ask
+3. Add an Trigger to your Lambda as Alexa Smart Home.
+4. Copy your Applikation ID from your created Skill.
+5. Copy ARN to Skill Settings.
 
 Comming soon ...
 
