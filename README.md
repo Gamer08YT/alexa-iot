@@ -12,6 +12,8 @@
 2. Setup
 3. Examples
 
+
+#### Donate to keep the project running
 [![](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/bytestorede)
 
 ##### Requirements
