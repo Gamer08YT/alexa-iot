@@ -25,6 +25,7 @@
 - Amazon Alexa Account
 - ESP8266 / ESP32 Chip or NodeMCU
 
+
 ##### Setup
 ###### own Lambda
 1. Create a new Lambda in EU(Ireland) because only this works in EU for Alexa
@@ -33,8 +34,22 @@
 4. Copy your Applikation ID from your created Skill.
 5. Copy ARN to Skill Settings.
 
+
 ##### Lambda Function
 ###### Device Types
+- Brightness Controller
+- Color Controller
+- Color Temperature Controller
+- Inventory Level Sensor
+- Mode Controller
+- Percentage Controller
+- Power Controller
+- PowerLevel Controller
+- Temperature Controller
+- Thermostat Controller
+- Time Hold Controller
+- Toggle Controller
+
 
 Comming soon ...
 
