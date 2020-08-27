@@ -9,10 +9,9 @@
 ### A simple IoT Platform for the Amazon Alexa Speaker
 
 1. [Requirements](#requirements)
-2. Setup
-  - own Lambda
-3. Examples
-4. Lambda Function
+2. [Setup](#setup)
+3. [Examples](#examples)
+4. [Alexa](#alexa)
   - Device Types
 
 
@@ -35,7 +34,7 @@
 5. Copy ARN to Skill Settings.
 
 
-##### Lambda Function
+##### Alexa
 ###### Device Types
 - Brightness Controller
 - Color Controller
