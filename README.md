@@ -18,14 +18,14 @@
 #### Donate to keep the project running
 [![](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/bytestorede)
 
-##### Requirements
+### Requirements
 - Byte-Store.DE Account
 - Alexa Device
 - Amazon Alexa Account
 - ESP8266 / ESP32 Chip or NodeMCU
 
 
-##### Setup
+### Setup
 ###### own Lambda
 1. Create a new Lambda in EU(Ireland) because only this works in EU for Alexa
 2. Create a Smart Home Skill in https://developer.amazon.com/alexa/console/ask
@@ -34,7 +34,7 @@
 5. Copy ARN to Skill Settings.
 
 
-##### Alexa
+### Alexa
 ###### Device Types
 - Brightness Controller
 - Color Controller
