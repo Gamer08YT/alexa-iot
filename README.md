@@ -36,18 +36,18 @@
 
 ### Alexa
 ###### Device Types
-- Brightness Controller
-- Color Controller
-- Color Temperature Controller
-- Inventory Level Sensor
-- Mode Controller
-- Percentage Controller
-- Power Controller
-- PowerLevel Controller
-- Temperature Controller
-- Thermostat Controller
-- Time Hold Controller
-- Toggle Controller
+- [ ] Brightness Controller
+- [ ] Color Controller
+- [ ] Color Temperature Controller
+- [ ] Inventory Level Sensor
+- [ ] Mode Controller
+- [ ] Percentage Controller
+- [ ] Power Controller
+- [ ] PowerLevel Controller
+- [ ] Temperature Controller
+- [ ] Thermostat Controller
+- [ ] Time Hold Controller
+- [ ] Toggle Controller
 
 
 Comming soon ...
