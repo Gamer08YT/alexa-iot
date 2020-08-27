@@ -8,7 +8,7 @@
 # Alexa IoT Platform
 ### A simple IoT Platform for the Amazon Alexa Speaker
 
-1. Requirements
+1. [Requirements](#requirements)
 2. Setup
   - own Lambda
 3. Examples
